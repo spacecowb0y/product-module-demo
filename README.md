@@ -8,7 +8,7 @@
   </a>
 </p>
 <h2 align="center">
-  Medusa Product Module demo 
+  Medusa Product Module demo.
 </h2>
 
 <h4 align="center">
